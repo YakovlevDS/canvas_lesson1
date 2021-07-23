@@ -1,0 +1,26 @@
+
+.conteiner{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content :space-between;
+    align-items: center;
+    align-content: center;
+      
+};
+.field{
+   height: 100px;
+    width: 650px; 
+}
+#canvas {
+  border: 1px solid;
+};
+
+button {
+    height: 30px;
+    width: 150px;
+  border: 3px solid;
+};
+div{
+  margin-bottom: 100px;
+}
